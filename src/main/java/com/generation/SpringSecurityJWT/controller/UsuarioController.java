@@ -10,7 +10,7 @@ import java.util.ArrayList;
 
 
 @RestController
-@RequestMapping("/api/user")
+@RequestMapping("/api/usuario")
 public class UsuarioController {
 
     private final UsuarioService userService;
